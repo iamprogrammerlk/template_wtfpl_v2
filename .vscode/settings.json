@@ -1,5 +1,20 @@
 {
   "markdown.validate.ignoredLinks": [
-    "#readme-top"
+    "/../../discussions",
+    "/../../security/advisories/new",
+    "#readme-top",
+    "/../../graphs/contributors",
+    "/../../issues",
+    "/contributor_license_agreement.md"
+  ],
+  "cSpell.words": [
+    "buildlog",
+    "ehthumbs",
+    "encryptable",
+    "esktop",
+    "msix",
+    "stackdump",
+    "Symbolication",
+    "thumbsup"
   ]
 }
