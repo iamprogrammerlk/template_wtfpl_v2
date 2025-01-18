@@ -1,0 +1,5 @@
+{
+  "markdown.validate.ignoredLinks": [
+    "#readme-top"
+  ]
+}
