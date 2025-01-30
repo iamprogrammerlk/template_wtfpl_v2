@@ -11,15 +11,5 @@
     "../blob/main/security.md",
     "../blob/main/contributor_license_agreement.md",
     "../blob/main/license.md"
-  ],
-  "cSpell.words": [
-    "buildlog",
-    "ehthumbs",
-    "encryptable",
-    "esktop",
-    "msix",
-    "stackdump",
-    "Symbolication",
-    "thumbsup"
   ]
 }
