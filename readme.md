@@ -1,19 +1,29 @@
 <a name="readme-top"></a>
 
+<br><br>
+
+<div align="center" style="text-align: center;">
+  <a href="https://github.com/iamprogrammerlk">
+    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammerlk" width="200">
+  </a>
+</div>
+
+<br><br>
+
 # PROJECT_TITLE
 
-> PROJECT_DESCRIPTION
+### PROJECT_DESCRIPTION
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
-# :two_hearts: Credits
+# 💕 Credits
 
 - I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk)
 
-  > [iamprogrammer.lk](https://iamprogrammer.lk) | [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk) | [x.com/iamprogrammerlk](https://x.com/iamprogrammerlk) | [youtube.com/@iamprogrammerlk](https://youtube.com/@iamprogrammerlk)
+  [iamprogrammer.lk](https://iamprogrammer.lk) 🔸 [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk) 🔸 [x.com/iamprogrammerlk](https://x.com/iamprogrammerlk) 🔸 [youtube.com/@iamprogrammerlk](https://youtube.com/@iamprogrammerlk)
 
 - [Contributors](/../../graphs/contributors)
 
@@ -22,7 +32,7 @@
 
 ---
 
-# :sparkles: Get Involved
+# ✨ Get Involved
 
 Get in touch with the project developers and the community through our [GitHub Discussions](/../../discussions) forum. View [contributing.md](/contributing.md) for information.
 
@@ -31,7 +41,7 @@ Get in touch with the project developers and the community through our [GitHub D
 
 ---
 
-# :fire: Issues
+# 🔥 Issues
 
 Bug reports and feature requests can be submitted on the [Github Issues](/../../issues).
 
@@ -40,7 +50,7 @@ Bug reports and feature requests can be submitted on the [Github Issues](/../../
 
 ---
 
-# :thumbsup: Code of Conduct
+# 👍 Code of Conduct
 
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Code of Conduct](/code_of_conduct.md), [Security Policy](/security.md), and be bound by the terms of the [Contributor License Agreement](/contributor_license_agreement.md).
 
@@ -53,41 +63,41 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 
 ---
 
-# :balance_scale: License
+# ⚖️ License
 
 ### This work is distributed under the [Do What The F\*ck You Want To Public License (WTFPL)](https://choosealicense.com/licenses/wtfpl/) License. See [license](/license.md) for more information.
 
 ### Permissions
 
-- :white_check_mark: Commercial use
-- :white_check_mark: Distribution
-- :white_check_mark: Modification
-- :no_entry: ~~Patent use~~
-- :white_check_mark: Private use
+- ✅ Commercial use
+- ✅ Distribution
+- ✅ Modification
+- ⛔ ~~Patent use~~
+- ✅ Private use
 
 ### Conditions
 
-- :no_entry: ~~Disclose source~~
-- :no_entry: ~~License and copyright notice~~
-- :no_entry: ~~Network use is distribution~~
-- :no_entry: ~~Same license~~
-- :no_entry: ~~State changes~~
+- ⛔ ~~Disclose source~~
+- ⛔ ~~License and copyright notice~~
+- ⛔ ~~Network use is distribution~~
+- ⛔ ~~Same license~~
+- ⛔ ~~State changes~~
 
 ### Limitations
 
-- :x: Liability
-- :no_entry: ~~Trademark use~~
-- :x: Warranty
+- 🚫 Liability
+- ⛔ ~~Trademark use~~
+- 🚫 Warranty
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
-# :copyright: Copyright
+# ©️ Copyright
 
-- Copyright © 2025 :sri_lanka: I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk).
-- Copyright © 2025 :heart: [Contributors](/../../graphs/contributors).
+- Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk).
+- Copyright © 2025 ❤️ [Contributors](/../../graphs/contributors).
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
